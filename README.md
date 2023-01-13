@@ -16,7 +16,7 @@ Apesar do próprio Kaggle se definir como uma comunidade sobre machine learning 
 
 Assim, você pode usar o kaggle para aprender novas habilidades (python, SQL, dataviz...), para tirar dúvidas e compartilhar conhecimento com a comunidade através de discussões e também para colocar seu conhecimento a prova através dos desafios e projetos.
 
-### Quais cursos do Kaggle podem ajudar a adquirir habilidades necessárias para análise de dados? 📊🗂️
+### Quais cursos do Kaggle podem ajudar a adquirir habilidades básicas necessárias para análise de dados? 📊🗂️
 - Python: análises com [Pandas](https://www.kaggle.com/learn/pandas)
 - SQL: do [básico](https://www.kaggle.com/learn/intro-to-sql) ao [avançado](https://www.kaggle.com/learn/advanced-sql)
 - Pré-processamento de dados: [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
