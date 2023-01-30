@@ -61,7 +61,7 @@ Sempre que fizer uma análise com base em dados, você deve garantir que ela pos
 ### 3. Entender sobre o cliente é papel de todos dentro de uma organizaçã
 É importante adquirir a mentalidade de alguém que trabalha com marketing, mesmo que essa não seja a sua área de atuação. Isso porque entender as necessidades do consumidor, seus hábitos e insatisfações criam um pano de fundo importante para a interpretação e análise de problemas e oportunidades da empresa. Assim, tente adquirir mais conhecimento sobre o cliente final e sempre se pergunte "por que alguém compra nosso produto, adota nossa ideia ou adquire nossos serviços ao invés dos de outra empresa?"
 
-### 4. É importante entender a necessidade/problema real e não permanecer na superfície do que foi solicitado
+### 4. É importante entender profundamente o problema para delinear soluções mais efetivas
 Muitas vezes ao interagir com clientes internos ou externos, é possível que eles manifestem pra você algo que eles desejam que seja feito ou que deixe de ser feito. Isso vem na forma de uma necessidade, mas na realidade representa um problema que precisa ser resolvido. Entender o cerne desse problema é entender a real demanda desse cliente e permitirá com que você atenda a necessidade de forma mais assertiva.
 
 ### 5. A escuta ativa é uma das habilidades mais importantes para o sucesso em negociações
