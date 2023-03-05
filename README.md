@@ -58,7 +58,7 @@ No contexto de um negócio, existem vários dados que podem ser colhidos, analis
 ### 2. Acurácia e confiabilidade são inegociáveis
 Sempre que fizer uma análise com base em dados, você deve garantir que ela possui alta acurácia e alta confiabilidade. A acurácia significa que os resultados que você obtem através da sua análise são corretos. A confiabilidade significa que você obterá consistentemente os mesmos resultados quando repetir uma análise com os mesmos dados. É importante ter esses dois pontos em mente pois resultados aparentemente confiáveis podem ser inacurados, ou seja, você pode estar consistentemente gerando resultados errados caso não se atente a validade dos seus dados e processos.
 
-### 3. Entender sobre o cliente é papel de todos dentro de uma organizaçã
+### 3. Entender sobre o cliente é papel de todos dentro de uma organização
 É importante adquirir a mentalidade de alguém que trabalha com marketing, mesmo que essa não seja a sua área de atuação. Isso porque entender as necessidades do consumidor, seus hábitos e insatisfações criam um pano de fundo importante para a interpretação e análise de problemas e oportunidades da empresa. Assim, tente adquirir mais conhecimento sobre o cliente final e sempre se pergunte "por que alguém compra nosso produto, adota nossa ideia ou adquire nossos serviços ao invés dos de outra empresa?"
 
 ### 4. É importante entender profundamente o problema para delinear soluções mais efetivas
